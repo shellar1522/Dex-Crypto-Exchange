@@ -2,7 +2,7 @@
 
 
 # Dex Crypto Exchange Script
-Contact me: https://t.me/st_code Demo Available
+# Contact me: https://t.me/st_code Demo Available
 
 
 # 🔗Main Features:
@@ -29,7 +29,7 @@ Contact me: https://t.me/st_code Demo Available
 ![image](https://github.com/shellar1522/Dex-Crypto-Exchancge/assets/125349687/daa94360-74d3-495c-ac25-0063ebe0e080)
 ![image](https://github.com/shellar1522/Dex-Crypto-Exchancge/assets/125349687/c7ce6e43-0016-4679-8640-08ce12aab00c)
 
-Contact me: https://t.me/st_code Demo Available
+# Contact me: https://t.me/st_code Demo Available
 
 <details>
   <summary>🏷️Tags (Ignore)</summary>
