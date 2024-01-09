@@ -10,7 +10,7 @@
 1. Automatic address generation for each client (NOWPayments)
 2. Fully working TG Bot (Worker + Admin Panel, information about successful exchange + automatic sending of payment information to TG & more)
 3. Automatic verification of payments.
-4. Rate adjustment, adding your own coins and more
+4. Rate adjustment, adding your own coins and more.
 5. There is an exchange of any fiat funds, the ability to add support for any payment method.
 6. Referral system for users.
 7. Beautiful adaptive design for any type of device.
